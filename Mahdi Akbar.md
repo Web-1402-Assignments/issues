@@ -6,4 +6,4 @@ frontend issues and respective PRs:
 - https://github.com/MonalikaPatnaik/UMatter/issues/1044, https://github.com/MonalikaPatnaik/UMatter/pull/1050
 - https://github.com/electron/electron/issues/39104, https://github.com/electron/electron/pull/39105
 
-github account name : Danial-Gharib
+github account name : MrTbag
