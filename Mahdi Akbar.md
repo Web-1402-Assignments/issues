@@ -1,3 +1,5 @@
+محمدمهدی اکبر - 400104726
+
 backened issues and respective PRs:
 - https://github.com/jaswdr/faker/issues/134, https://github.com/jaswdr/faker/pull/144
 - https://github.com/bitfield/script/issues/110, https://github.com/bitfield/script/pull/179
