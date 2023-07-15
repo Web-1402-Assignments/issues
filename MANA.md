@@ -28,3 +28,4 @@ https://github.com/Manazd/offline-qr-code/commit/6d8fd9d5c24a8ee434c267fcc1c873c
 } <br>
 
 github account name : Manazd <br>
+-Mana Abbaszadeh 400109638 <br>
